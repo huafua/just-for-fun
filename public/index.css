@@ -1,0 +1,11 @@
+body{
+    background-color: #dedede(181, 93, 93);
+    font-family: "calibri";
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+img{
+    border-radius: 10px;
+    filter: blur(2px);
+}
